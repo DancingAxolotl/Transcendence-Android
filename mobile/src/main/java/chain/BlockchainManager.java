@@ -69,7 +69,7 @@ public class BlockchainManager {
     private File blockChainFile;
     private BlockChain blockChain;
     private PeerGroup peerGroup;
-                    
+
     private List<BlockchainManagerListener> blockchainManagerListeners;
 
 
